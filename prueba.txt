@@ -4,15 +4,24 @@ Archivo de prueba.
 
 "Hola mundo2"
 
-
 "Hola mundo3"
 
 "Hola mundo4"
 
+<<<<<<<
+"Hola mundo3"
+
+"Hola mundo4"
+
+=======
+
+>>>>>>>
 "Hola Mundo5"
 
 "Hola Mundo6"
 
 "Cambios desde GitHub"
 
-"Fin codigo"
+"Cambios previos a los de GitHub"
+
+"Fin código"
